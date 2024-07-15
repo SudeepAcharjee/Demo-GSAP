@@ -14,7 +14,7 @@ Welcome to the project! This project aims to replicate the design and functional
 
 ## Tech Stack
 
-- **Reacr**: Standard markup language for building the structure of web pages.
+- **React**: Standard markup language for building the structure of web pages.
 - **Tailwind-CSS**: Cascading Style Sheets for styling the website.
 - **JavaScript**: Programming language for adding interactivity and dynamic features.
 - **Locomotive Scroll**: JavaScript library for smooth scrolling effects.
